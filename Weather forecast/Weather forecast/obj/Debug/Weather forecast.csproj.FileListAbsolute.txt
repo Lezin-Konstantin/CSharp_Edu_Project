@@ -1,0 +1,34 @@
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\Weather forecast.exe.config
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\Weather forecast.exe
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\Weather forecast.pdb
+D:\gitHub\Weather forecast\Weather forecast\obj\Debug\Weather forecast.csproj.AssemblyReference.cache
+D:\gitHub\Weather forecast\Weather forecast\obj\Debug\Weather forecast.csproj.SuggestedBindingRedirects.cache
+D:\gitHub\Weather forecast\Weather forecast\obj\Debug\Weather_forecast.Form1.resources
+D:\gitHub\Weather forecast\Weather forecast\obj\Debug\Weather_forecast.Properties.Resources.resources
+D:\gitHub\Weather forecast\Weather forecast\obj\Debug\Weather forecast.csproj.GenerateResource.cache
+D:\gitHub\Weather forecast\Weather forecast\obj\Debug\Weather forecast.csproj.CoreCompileInputs.cache
+D:\gitHub\Weather forecast\Weather forecast\obj\Debug\Weather forecast.exe
+D:\gitHub\Weather forecast\Weather forecast\obj\Debug\Weather forecast.pdb
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\System.Buffers.dll
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\System.Memory.dll
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\System.Net.Http.Json.dll
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\System.Numerics.Vectors.dll
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\System.Text.Encodings.Web.dll
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\System.Text.Json.dll
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\System.ValueTuple.dll
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\Vse.Web.Serialization.dll
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\System.Buffers.xml
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\System.Memory.xml
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\System.Net.Http.Json.xml
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\System.Numerics.Vectors.xml
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\System.Text.Encodings.Web.xml
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\System.Text.Json.xml
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\System.ValueTuple.xml
+D:\gitHub\Weather forecast\Weather forecast\bin\Debug\Vse.Web.Serialization.pdb
+D:\gitHub\Weather forecast\Weather forecast\obj\Debug\Weather forecast.csproj.CopyComplete
