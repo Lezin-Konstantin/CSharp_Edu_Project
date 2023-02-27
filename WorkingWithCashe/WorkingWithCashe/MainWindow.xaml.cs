@@ -42,5 +42,12 @@ namespace WorkingWithCashe
             }
             
         }
+
+        private void OpenAnotherWindow_Click(object sender, RoutedEventArgs e)
+        {
+            AnotherWindows _anForm = new AnotherWindows();
+            _anForm.Show();
+            Close();
+        }
     }
 }
