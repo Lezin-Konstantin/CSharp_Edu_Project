@@ -1,0 +1,16 @@
+D:\gitHub\WorkingWithCashe\WorkingWithCashe\bin\Debug\WorkingWithCashe.exe.config
+D:\gitHub\WorkingWithCashe\WorkingWithCashe\bin\Debug\WorkingWithCashe.exe
+D:\gitHub\WorkingWithCashe\WorkingWithCashe\bin\Debug\WorkingWithCashe.pdb
+D:\gitHub\WorkingWithCashe\WorkingWithCashe\obj\Debug\WorkingWithCashe.csproj.AssemblyReference.cache
+D:\gitHub\WorkingWithCashe\WorkingWithCashe\obj\Debug\WorkingWithCashe.csproj.SuggestedBindingRedirects.cache
+D:\gitHub\WorkingWithCashe\WorkingWithCashe\obj\Debug\MainWindow.g.cs
+D:\gitHub\WorkingWithCashe\WorkingWithCashe\obj\Debug\App.g.cs
+D:\gitHub\WorkingWithCashe\WorkingWithCashe\obj\Debug\WorkingWithCashe_MarkupCompile.cache
+D:\gitHub\WorkingWithCashe\WorkingWithCashe\obj\Debug\WorkingWithCashe_MarkupCompile.lref
+D:\gitHub\WorkingWithCashe\WorkingWithCashe\obj\Debug\MainWindow.baml
+D:\gitHub\WorkingWithCashe\WorkingWithCashe\obj\Debug\WorkingWithCashe.g.resources
+D:\gitHub\WorkingWithCashe\WorkingWithCashe\obj\Debug\WorkingWithCashe.Properties.Resources.resources
+D:\gitHub\WorkingWithCashe\WorkingWithCashe\obj\Debug\WorkingWithCashe.csproj.GenerateResource.cache
+D:\gitHub\WorkingWithCashe\WorkingWithCashe\obj\Debug\WorkingWithCashe.csproj.CoreCompileInputs.cache
+D:\gitHub\WorkingWithCashe\WorkingWithCashe\obj\Debug\WorkingWithCashe.exe
+D:\gitHub\WorkingWithCashe\WorkingWithCashe\obj\Debug\WorkingWithCashe.pdb

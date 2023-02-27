@@ -1,0 +1,16 @@
+D:\gitHub\WPFTestProject\WPFTestProject\bin\Debug\WPFTestProject.exe.config
+D:\gitHub\WPFTestProject\WPFTestProject\bin\Debug\WPFTestProject.exe
+D:\gitHub\WPFTestProject\WPFTestProject\bin\Debug\WPFTestProject.pdb
+D:\gitHub\WPFTestProject\WPFTestProject\obj\Debug\WPFTestProject.csproj.AssemblyReference.cache
+D:\gitHub\WPFTestProject\WPFTestProject\obj\Debug\WPFTestProject.csproj.SuggestedBindingRedirects.cache
+D:\gitHub\WPFTestProject\WPFTestProject\obj\Debug\MainWindow.g.cs
+D:\gitHub\WPFTestProject\WPFTestProject\obj\Debug\App.g.cs
+D:\gitHub\WPFTestProject\WPFTestProject\obj\Debug\WPFTestProject_MarkupCompile.cache
+D:\gitHub\WPFTestProject\WPFTestProject\obj\Debug\WPFTestProject_MarkupCompile.lref
+D:\gitHub\WPFTestProject\WPFTestProject\obj\Debug\MainWindow.baml
+D:\gitHub\WPFTestProject\WPFTestProject\obj\Debug\WPFTestProject.g.resources
+D:\gitHub\WPFTestProject\WPFTestProject\obj\Debug\WPFTestProject.Properties.Resources.resources
+D:\gitHub\WPFTestProject\WPFTestProject\obj\Debug\WPFTestProject.csproj.GenerateResource.cache
+D:\gitHub\WPFTestProject\WPFTestProject\obj\Debug\WPFTestProject.csproj.CoreCompileInputs.cache
+D:\gitHub\WPFTestProject\WPFTestProject\obj\Debug\WPFTestProject.exe
+D:\gitHub\WPFTestProject\WPFTestProject\obj\Debug\WPFTestProject.pdb

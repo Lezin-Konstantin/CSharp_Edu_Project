@@ -99,13 +99,13 @@ namespace Weather_forecast
             country_name_publicString = mygeo.country;
             region_publicString       = mygeo.region;
             city_publicString         = mygeo.city;
-            lat_publicString          = mygeo.lat.ToString("00.00");
-            lon_publicString          = mygeo.lon.ToString("00.00");
+            lat_publicString          = mygeo.lat.ToString("00.000");
+            lon_publicString          = mygeo.lon.ToString("00.000");
 
             lat_publicString = lat_publicString.Replace(",", ".");
             lon_publicString = lon_publicString.Replace(",", ".");
 
-            country_name.Text = "Country: " + country_name_publicString;
+            country_name.Text = "Country: " + country_name_publicString; 
             region.Text       = "Region: " + region_publicString;
             city.Text         = "Сity: " + city_publicString;
             latitude.Text     = "Latitude: " + lat_publicString;
