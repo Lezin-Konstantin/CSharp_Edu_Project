@@ -29,3 +29,7 @@ D:\gitHub\PhoneBook\PhoneBook\obj\Release\PhoneBook.csproj.CoreCompileInputs.cac
 D:\gitHub\PhoneBook\PhoneBook\obj\Release\PhoneBook.csproj.CopyComplete
 D:\gitHub\PhoneBook\PhoneBook\obj\Release\PhoneBook.exe
 D:\gitHub\PhoneBook\PhoneBook\obj\Release\PhoneBook.pdb
+D:\gitHub\PhoneBook\PhoneBook\bin\Release\PhoneBook.exe.manifest
+D:\gitHub\PhoneBook\PhoneBook\bin\Release\PhoneBook.application
+D:\gitHub\PhoneBook\PhoneBook\obj\Release\PhoneBook.exe.manifest
+D:\gitHub\PhoneBook\PhoneBook\obj\Release\PhoneBook.application
