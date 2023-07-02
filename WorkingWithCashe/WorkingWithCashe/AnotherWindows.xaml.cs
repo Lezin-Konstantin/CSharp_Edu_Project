@@ -16,6 +16,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using System.Xml.Serialization;
 
+
 namespace WorkingWithCashe
 {
     /// <summary>
@@ -74,6 +75,18 @@ namespace WorkingWithCashe
 
 
 
+
+        }
+
+        private void lbl1_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            Label lbl = (Label)sender;
+            DragDrop.DoDragDrop(lbl, lbl.Content, DragDropEffects.Copy);
+        }
+
+        private void txtTarget_Drop(object sender, DragEventArgs e)
+        {
+            ((TextBlock)sender).Text = (string)e.Data.GetData(DataFormats.Text);
         }
 
         public static DataTable DataGridtoDataTable(DataGrid dg)

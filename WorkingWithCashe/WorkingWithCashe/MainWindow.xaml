@@ -5,12 +5,31 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WorkingWithCashe"
         mc:Ignorable="d"
-        Title="Data from cache" Height="127" Width="203">
-    <Grid>
+        Title="Data from cache" Height="127" Width="203"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     Background="{DynamicResource MaterialDesignPaper}"
+     FontFamily="{DynamicResource MaterialDesignFont}"
+        >
+    <Grid
+        >
         <TextBox x:Name="dataFromCache" HorizontalAlignment="Left" Height="26" Margin="10,10,0,0" TextWrapping="Wrap" Text="Data from cache" VerticalAlignment="Top" Width="165"/>
         <Button x:Name="GetDataFromCache" Content="GET" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Click="GetDataFromCache_Click"/>
         <Button x:Name="SetDataFromCache_Copy" Content="SET" HorizontalAlignment="Left" Margin="10,66,0,0" VerticalAlignment="Top" Click="SetDataFromCache_Copy_Click"/>
         <Button x:Name="OpenAnotherWindow" Content="OpenAnotherWindow" HorizontalAlignment="Left" Height="20" Margin="50,56,0,0" VerticalAlignment="Top" Width="125" Click="OpenAnotherWindow_Click"/>
+
+
+        <Button
+  Width="{StaticResource ButtonWidth}"
+  Content="_LIGHT"
+  IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+  Style="{StaticResource MaterialDesignRaisedLightButton}"
+  ToolTip="Resource name: MaterialDesignRaisedLightButton" />
+
+
 
     </Grid>
 </Window>
